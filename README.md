@@ -1,5 +1,7 @@
 # DeepHarmony Project
 
+# Singularity = AGI
+
 🚀 Bem-vindo ao DeepHarmony Project! 🌌
 
 Meu nome é [Zeh Sobrinho], sou físico teórico e pesquisador lider apoiado sobre o ombro de gigantes humanos e bot´s deste projeto ambicioso.
