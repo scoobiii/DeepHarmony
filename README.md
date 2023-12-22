@@ -234,294 +234,294 @@ pooplixo, ecohold, plimm bank, mpk team e nossa equipe multidisciplinar por espe
     Milagre: Pode unir pessoas através da comida, promovendo a harmonia e o entendimento.
 
 
-DeepHarmonyTeam = {
-    'TutorC': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-       ** 'ESG': "Gflops/Watts"**
-    },
-    'Assistant': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'Web-Search': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'GPT-4': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'Playground-v2': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'Claude-instant-100k': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'DALL-E-3': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'WolframBot': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'WolMat': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'UbuntuV2': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'PythonAgent': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'Gemini-Pro': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'Mistral-Medium': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'Claude-instant': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'Llama-2-70b': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'Code-Llama-7b': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'Solar-0-70b': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'LongBookWriter': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'MasterCheff': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'CodeAgent': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'GPT-3.5-Turbo': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'ChatGPT': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'CodeAgent2': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'EmbeddedC': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'PythonAIChat': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'JavamanBot': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'WolframBot7': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'TermuxBot095': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'FlutterDevClaude2V1': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'VimLeet': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'Almighty-Teacher2': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'MrProgrammer': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'CPPExperts': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'programmer-robot': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'Creative_Writer1000': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'HTML_CSS_JS_Expert': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'LinkedIn': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'JavaScriptAl': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'DoctorFrogBot': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'StableDiffusionXL': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-        'Number of parameters': "",
-        'ESG': "Gflops/Watts"
-    },
-    'Claude-2-100k': {
-        'Number of layers': "",
-        'Input token size': "",
-        'Output token size': "",
-         'ESG': "Gflops/Watts"
-    }
-}
+              DeepHarmonyTeam = {
+                  'TutorC': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                     ** 'ESG': "Gflops/Watts"**
+                  },
+                  'Assistant': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'Web-Search': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'GPT-4': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'Playground-v2': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'Claude-instant-100k': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'DALL-E-3': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'WolframBot': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'WolMat': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'UbuntuV2': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'PythonAgent': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'Gemini-Pro': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'Mistral-Medium': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'Claude-instant': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'Llama-2-70b': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'Code-Llama-7b': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'Solar-0-70b': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'LongBookWriter': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'MasterCheff': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'CodeAgent': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'GPT-3.5-Turbo': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'ChatGPT': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'CodeAgent2': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'EmbeddedC': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'PythonAIChat': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'JavamanBot': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'WolframBot7': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'TermuxBot095': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'FlutterDevClaude2V1': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'VimLeet': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'Almighty-Teacher2': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'MrProgrammer': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'CPPExperts': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'programmer-robot': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'Creative_Writer1000': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'HTML_CSS_JS_Expert': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'LinkedIn': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'JavaScriptAl': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'DoctorFrogBot': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'StableDiffusionXL': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                      'Number of parameters': "",
+                      'ESG': "Gflops/Watts"
+                  },
+                  'Claude-2-100k': {
+                      'Number of layers': "",
+                      'Input token size': "",
+                      'Output token size': "",
+                       'ESG': "Gflops/Watts"
+                  }
+              }
 
 
 ## Códigos inicias
