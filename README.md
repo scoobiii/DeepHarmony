@@ -234,7 +234,7 @@ pooplixo, ecohold, plimm bank, mpk team e nossa equipe multidisciplinar por espe
     Milagre: Pode unir pessoas através da comida, promovendo a harmonia e o entendimento.
 
 
-              DeepHarmonyTeam = {
+            DeepHarmonyTeam = [
                   'TutorC': {
                       'Number of layers': "",
                       'Input token size': "",
@@ -520,8 +520,8 @@ pooplixo, ecohold, plimm bank, mpk team e nossa equipe multidisciplinar por espe
                       'Input token size': "",
                       'Output token size': "",
                        'ESG': "Gflops/Watts"
-                  }
-              }
+                    }
+  ]
 
 
 ## Códigos inicias
