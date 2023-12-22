@@ -521,7 +521,7 @@ pooplixo, ecohold, plimm bank, mpk team e nossa equipe multidisciplinar por espe
                       'Output token size': "",
                        'ESG': "Gflops/Watts"
                     }
-  ]
+                  ]
 
 
 ## Códigos inicias
