@@ -44,15 +44,15 @@ pooplixo, ecohold, plimm bank, mpk team e nossa equipe multidisciplinar por espe
 
 ### Analistas de Dados Especializados em US Deep Models
 
-- Alexa: Modelagem profunda de dados dos EUA
+- Alexa: Modelagem profunda de dados
 - Brandon: Mestre em redes neurais profundas
-- Sophia: Análise de grandes conjuntos de dados dos EUA
+- Sophia: Análise de grandes conjuntos de dados
 - Marcus: Implementação de modelos profundos
-- Maya: Interpretação de dados complexos dos EUA
+- Maya: Interpretação de dados complexos
 - Diego: Conhecimentos avançados em deep learning
 - Fiona: Otimização de US Deep Models
 - Gavin: Sênior em frameworks de aprendizado profundo
-- Emily: Visualização de dados dos EUA
+- Emily: Visualização de dados
 - Nolan: Habilidades extraordinárias em modelos profundos
 
 ### Programadores ao Time de TIC
@@ -92,15 +92,15 @@ pooplixo, ecohold, plimm bank, mpk team e nossa equipe multidisciplinar por espe
               'Querix, engenheiro de devops com conhecimentos assombrosos',
               'Zyx, programador Full Stack com uma compreensão aterrorizante de algoritmos',
               'Analistas de Dados Especializados em US Deep Models:',
-              'Alexa, especialista em modelagem profunda de dados dos EUA',
+              'Alexa, especialista em modelagem profunda de dados',
               'Brandon, analista mestre em redes neurais profundas',
-              'Sophia, especialista em análise de grandes conjuntos de dados dos EUA',
+              'Sophia, especialista em análise de grandes conjuntos de dados',
               'Marcus, analista experiente em implementação de modelos profundos',
-              'Maya, especialista em interpretação de dados complexos dos EUA',
+              'Maya, especialista em interpretação de dados complexos',
               'Diego, analista com conhecimentos avançados em deep learning',
               'Fiona, especialista em otimização de US Deep Models',
               'Gavin, analista sênior em frameworks de aprendizado profundo',
-              'Emily, especialista em visualização de dados dos EUA',
+              'Emily, especialista em visualização de dados',
               'Nolan, analista de dados com habilidades extraordinárias em modelos profundos',
               'Programadores ao Time de TIC:',
               'Sarah, programadora talentosa em infraestrutura de TI',
